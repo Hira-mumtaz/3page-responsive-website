@@ -16,3 +16,7 @@ body {
   height: 173.5px;
   object-fit: cover;
 }
+.img2 {
+  max-width: 135% !important;
+  height: 681px !important;
+}
